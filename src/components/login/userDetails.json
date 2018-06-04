@@ -1,0 +1,31 @@
+  {
+    "userdetails": [
+      {
+        "name": "nk",
+        "employee_Id": [
+          "nk1"
+        ],
+        "status": [
+          "Manager"
+        ]
+      },
+      {
+        "name": "nk2",
+        "employee_Id": [
+          "nk2"
+        ],
+        "status": [
+          "Sr. Developer"
+        ]
+      },
+      {
+        "name": "nk3",
+        "employee_Id": [
+          "nk3"
+        ],
+        "status": [
+          "Developer"
+        ]
+      }
+    ]
+  }
